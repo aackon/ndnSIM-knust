@@ -1,0 +1,25 @@
+# Build directories
+build/
+.waf*
+*.pyc
+__pycache__/
+
+# Compiled files
+*.o
+*.so
+*.a
+
+# Log files
+*.log
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
